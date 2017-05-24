@@ -1,3 +1,11 @@
+William Harvey - Fork
+===
+Run program.py to test the application.
+Packages used:
+* json
+* itertools
+* import time
+
 Insight Data Engineering - Coding Challenge
 ===========================================================
 
