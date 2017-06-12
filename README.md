@@ -4,7 +4,7 @@ Run program.py to test the application.
 Packages used:
 * json
 * itertools
-* import time
+* time
 
 Insight Data Engineering - Coding Challenge
 ===========================================================
